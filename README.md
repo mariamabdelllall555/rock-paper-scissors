@@ -1,2 +1,3 @@
 # rock-paper-scissors
-A simple Rock-Paper-Scissors game built with Python.
+A simple Python game where you play Rock, Paper, Scissors against the computer.
+
